@@ -1,6 +1,8 @@
 package studio9;
 
 import assignment7.Student;
+import java.util.Map;
+private final Map<String, Student>;
 
 public class UniversityDatabase {
 	//TODO: Complete this class according to the studio instructions
